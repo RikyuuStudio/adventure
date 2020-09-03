@@ -111,7 +111,7 @@ $makkankosappo = new Action(
 );
 
 $normalActions = array( 1 => $attack, );
-$gokuActions = array( 1 => $attack, $kamehameha );
+$gokuActions = array( 1 => $attack, $kamehameha, $kaioken );
 $piccoloActions = array( 1 => $attack, $makkankosappo );
 $nappaActions = array( 1 => $attack, $bakuhatsuha );
 $vegetaActions = array( 1 => $attack, $galickho );
