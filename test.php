@@ -186,3 +186,5 @@ $battle = new Battle( $group1, $group2 );
 //	Printer::printCard( $hero1);
 
 $battle->runBattle();
+
+echo '<br>teste';
